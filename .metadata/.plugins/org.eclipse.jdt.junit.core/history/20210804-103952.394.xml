@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="AssertTrueFalseTeoria" project="apirest-books" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.company.books.backend.ejemplos.junit.AssertTrueFalseTeoria" time="0.021" displayname="AssertTrueFalseTeoria" uniqueid="[engine:junit-jupiter]/[class:com.company.books.backend.ejemplos.junit.AssertTrueFalseTeoria]">
+    <testcase name="test1" classname="com.company.books.backend.ejemplos.junit.AssertTrueFalseTeoria" time="0.02" displayname="test1()" uniqueid="[engine:junit-jupiter]/[class:com.company.books.backend.ejemplos.junit.AssertTrueFalseTeoria]/[method:test1()]"/>
+    <testcase name="test2" classname="com.company.books.backend.ejemplos.junit.AssertTrueFalseTeoria" time="0.001" displayname="test2()" uniqueid="[engine:junit-jupiter]/[class:com.company.books.backend.ejemplos.junit.AssertTrueFalseTeoria]/[method:test2()]"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,4015 @@
+!SESSION 2021-07-30 10:37:18.065 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-07-30 10:38:27.916
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-30 10:38:27.916
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4bac0be5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@368d51ca,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-07-30 10:38:41.031
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\cristian.fuentes'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-07-30 11:31:18.261
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:31:20.221
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:31:23.386
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:31:24.706
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:31:25.075
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:31:26.205
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:31:26.642
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 11:32:36.081
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 11:32:36.083
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6420b70b[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 11:32:36.099
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 11:32:36.152
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.ui 2 2 2021-07-30 11:32:39.460
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 11:32:41.832
+!MESSAGE Boot LS startup time from start to initialized: 5721ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 11:32:41.944
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.rGrHlfTvisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 11:32:41.948
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 11:32:41.952
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 11:32:41.954
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 11:32:41.955
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 11:32:41.957
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.rGrHlfTv => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 11:32:41.969
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 11:32:41.975
+!MESSAGE buffering callback sts4.classpath.rGrHlfTv apirest-books false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 11:32:41.976
+!MESSAGE executing callback sts4.classpath.rGrHlfTv 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 11:32:42.445
+!MESSAGE executing callback sts4.classpath.rGrHlfTv SUCCESS [done]
+
+!ENTRY org.eclipse.jface 2 0 2021-07-30 11:34:24.313
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-30 11:34:24.313
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@922ebd6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5fd95c12,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY Activator 1 0 2021-07-30 11:38:13.220
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:38:13.375
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:38:14.972
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:38:15.990
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:38:16.789
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:38:18.026
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:38:18.211
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:28.679
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:29.054
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:29.334
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:33.024
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:33.147
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:33.329
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:33.605
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:34.118
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:34.248
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:34.500
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:34.606
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:35.128
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:35.444
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:36.656
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:36.757
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:36.963
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:37.087
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:37.210
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:38.427
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:38.545
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:38.917
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:39.243
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:39.644
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:39.863
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:39.970
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:42.128
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:47.938
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:48.045
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:48.161
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:48.283
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:48.404
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:48.506
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:49.153
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:49.358
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:49.478
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:49.647
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:49.775
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:50.480
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:50.599
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:50.799
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:50.930
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:51.056
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:51.184
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:51.291
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:52.000
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:52.115
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:52.323
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:52.469
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:52.815
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:57:52.985
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:08.209
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:08.320
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:08.497
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:08.600
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:08.720
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:08.826
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:09.712
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:10.946
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:11.111
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:14.138
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:14.440
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:14.697
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:14.826
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:15.103
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:15.207
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:15.365
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:15.471
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:16.344
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:31.434
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:31.650
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:31.887
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:32.074
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:32.366
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:32.475
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:32.734
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:59.359
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:59.469
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:59.596
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:59.726
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:59.859
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:58:59.972
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:02.117
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:02.715
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:02.894
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:03.097
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:03.420
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:04.564
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:04.844
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:05.748
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:12.498
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:13.235
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:13.785
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:13.881
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:14.042
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:14.990
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:17.303
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:17.515
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:17.702
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:18.350
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:18.518
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:18.752
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:19.322
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:19.632
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 11:59:20.294
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:03.314
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:03.425
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:03.573
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:03.678
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:03.786
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:03.880
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:03.994
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:04.779
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:04.906
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:05.008
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:05.688
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:06.124
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:06.338
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:06.526
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:06.716
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:06.799
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:06.915
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:06.998
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:07.107
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:07.192
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:07.743
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:08.541
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:08.730
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:08.904
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:09.576
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:09.890
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:10.087
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:24.510
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:35.544
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:35.661
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:35.762
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:35.877
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:35.999
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:36.092
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:36.949
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:37.210
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:37.446
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:37.561
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:37.818
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:37.959
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:38.068
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:38.454
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:39.945
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:40.188
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:40.412
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:41.600
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:41.987
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:42.120
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:42.361
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:42.527
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:42.676
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:45.439
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:47.686
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:48.194
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:49.652
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:50.850
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:51.223
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:51.833
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:52.238
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:53.218
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:53.441
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:54.415
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:54.851
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:00:54.993
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:19:17.107
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:19:17.585
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:30:08.812
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:30:09.035
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:30:28.007
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:30:28.880
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:36:20.070
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 12:36:21.146
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-07-30 12:38:56.376
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.declaration.OpenDeclarationHyperlinkDetector.detectHyperlinks(OpenDeclarationHyperlinkDetector.java:94)
+	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4026)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3626)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY Activator 1 0 2021-07-30 13:36:09.739
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:36:10.400
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:48:12.897
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:48:15.462
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:48:24.920
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:48:25.763
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:48:39.486
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:48:40.269
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:50:27.694
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:50:28.353
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:54:46.029
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:54:46.202
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:55:00.087
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:55:00.816
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:56:01.439
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:56:02.104
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:56:33.176
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:56:33.840
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:57:27.788
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:57:28.459
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:58:53.542
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:58:54.215
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:58:58.780
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:58:59.697
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:59:03.355
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:59:04.016
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:59:46.485
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:59:47.222
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:59:48.515
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 13:59:49.341
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:00:24.554
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:00:25.235
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:00:27.658
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:00:28.325
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:03:36.816
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:03:37.542
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-07-30 14:04:19.880
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-07-30 14:06:17.879
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:06:18.599
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:10:33.935
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:10:34.113
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:11:05.205
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:11:05.924
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:11:09.069
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:11:09.792
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:11:10.598
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:11:11.550
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:13:02.644
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:13:03.376
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:13:50.713
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:13:51.717
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:15:16.358
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:15:17.034
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:15:22.328
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:15:22.999
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:15:32.215
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:15:32.907
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:16:44.314
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:16:44.982
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:16:57.600
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:16:58.274
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:17:12.473
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:17:13.138
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:18:01.819
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:18:02.492
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:18:19.497
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:18:20.163
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:19:13.609
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:19:14.487
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:22:45.467
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:22:46.141
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:23:24.506
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:23:25.175
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:23:29.714
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:23:30.414
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:24:13.204
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:24:13.877
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:26:43.815
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:26:54.695
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:28:58.797
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:29:42.471
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:29:44.215
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:29:55.761
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:29:59.020
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:29:59.870
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:30:24.918
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:30:29.059
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-07-30 14:30:47.088
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 14:55:35.124
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.rGrHlfTv
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 14:55:35.134
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.rGrHlfTv
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 14:55:35.144
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-30 14:55:35.153
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.rGrHlfTv => OK
+!SESSION 2021-08-02 08:04:46.713 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-08-02 08:05:05.234
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-02 08:05:05.234
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@f996445,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@48697181,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:05:15.677
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:05:15.679
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@302a640f[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:05:15.696
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:05:15.756
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2021-08-02 08:05:17.548
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-02 08:05:17.644
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\cristian.fuentes'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:05:23.272
+!MESSAGE Boot LS startup time from start to initialized: 7562ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:05:23.412
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.yVQugrhVisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:05:23.418
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:05:23.423
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:05:23.426
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:05:23.428
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:05:23.430
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.yVQugrhV => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:05:23.449
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:05:23.455
+!MESSAGE buffering callback sts4.classpath.yVQugrhV apirest-books false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:05:23.456
+!MESSAGE executing callback sts4.classpath.yVQugrhV 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:05:23.994
+!MESSAGE executing callback sts4.classpath.yVQugrhV SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2021-08-02 08:19:09.337
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-08-02 08:19:20.416
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 08:19:22.217
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 08:19:22.396
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 08:19:44.519
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 08:19:45.316
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-02 08:22:06.566
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-08-02 08:23:34.863
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 08:23:35.534
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.eclipse.jface 2 0 2021-08-02 08:25:55.667
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-02 08:25:55.667
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@62c7095c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@53ffe34b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY Activator 1 0 2021-08-02 08:27:38.277
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 08:27:38.897
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 08:28:07.208
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 08:28:07.367
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 08:28:14.763
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 08:28:14.911
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 08:28:40.235
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 08:28:40.363
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:37:14.458
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.yVQugrhV
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:37:14.460
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.yVQugrhV
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:37:14.461
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:37:14.464
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.yVQugrhV => OK
+!SESSION 2021-08-02 08:37:20.533 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-08-02 08:37:28.732
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-02 08:37:28.732
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@515fff35,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5eb9bf7d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:37:37.135
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:37:37.137
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@5d0edb99[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:37:37.142
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:37:37.205
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2021-08-02 08:37:39.468
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-02 08:37:39.547
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\cristian.fuentes'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:37:42.951
+!MESSAGE Boot LS startup time from start to initialized: 5793ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:37:43.221
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.hPWDxVrTisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:37:43.228
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:37:43.233
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:37:43.235
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:37:43.237
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:37:43.239
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.hPWDxVrT => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:37:43.253
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:37:43.261
+!MESSAGE buffering callback sts4.classpath.hPWDxVrT apirest-books false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:37:43.263
+!MESSAGE executing callback sts4.classpath.hPWDxVrT 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:37:43.812
+!MESSAGE executing callback sts4.classpath.hPWDxVrT SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2021-08-02 08:37:46.644
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-02 08:42:02.395
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-08-02 08:42:16.142
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 08:42:18.568
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 08:42:20.515
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 08:42:20.767
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 08:42:21.605
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 08:50:18.811
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:50:18.814
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:50:18.829
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:50:18.838
+!MESSAGE buffering callback sts4.classpath.hPWDxVrT apirest-books false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:50:18.840
+!MESSAGE executing callback sts4.classpath.hPWDxVrT 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 08:50:18.902
+!MESSAGE executing callback sts4.classpath.hPWDxVrT SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-02 08:50:19.858
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 08:50:20.646
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 08:50:21.203
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 08:51:24.087
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 08:51:24.722
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:09:57.999
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:10:01.894
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:10:37.681
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:10:38.353
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:12:02.691
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:12:03.381
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:14:33.673
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:14:34.394
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:14:56.446
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:14:57.144
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:15:04.297
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-02 11:15:04.820
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-08-02 11:15:05.104
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:15:36.871
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:15:37.586
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:20:32.529
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:20:33.231
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:20:43.144
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:20:43.835
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:22:11.338
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:22:12.045
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:24:17.064
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:24:17.798
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-02 11:24:32.382
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-08-02 11:24:53.223
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:24:53.952
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:27:31.217
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:27:31.934
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:28:01.923
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:28:02.616
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:34:26.072
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:34:26.794
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:34:30.574
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:34:31.244
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:38:14.924
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:38:15.674
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:44:50.990
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:44:51.680
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:45:37.899
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:45:38.611
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:46:25.494
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:46:26.228
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-02 11:46:45.928
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-02 11:47:59.979
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-08-02 11:48:58.368
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:48:59.071
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:50:10.488
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:50:11.159
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:51:43.778
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:51:44.460
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:53:03.970
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 11:53:04.684
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:00:16.028
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:00:16.744
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:00:48.001
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:00:48.721
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:30:14.754
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:30:15.424
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:34:47.226
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:34:47.941
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:35:17.042
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:35:17.775
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:36:09.501
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:36:10.216
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:38:11.655
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:38:12.347
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:38:27.663
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:38:28.377
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:38:41.930
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:38:42.619
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:39:38.460
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:39:39.138
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:49:09.284
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:49:09.999
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-02 12:52:34.295
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-02 12:52:46.127
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-08-02 12:53:04.135
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:53:04.843
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:53:16.761
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:53:17.464
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:54:26.852
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 12:54:27.535
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:00:49.104
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:00:49.797
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:01:55.499
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:01:56.213
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:02:58.619
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:02:59.276
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:03:19.236
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:03:19.920
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:07:08.731
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:07:09.450
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:10:01.141
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:10:01.869
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:11:19.377
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:11:20.120
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:12:57.875
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:12:58.601
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:13:08.177
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:13:09.282
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:13:42.953
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:13:43.664
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:14:30.766
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:14:31.456
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:15:04.052
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:15:04.787
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:15:13.758
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:15:14.453
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:15:29.156
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:15:29.975
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:15:55.602
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:15:56.331
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:16:14.324
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:16:15.028
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:16:36.801
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:16:37.530
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:17:06.848
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:17:07.531
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:17:27.780
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:17:28.474
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:18:00.354
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:18:01.063
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:18:13.691
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:18:14.352
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:18:24.149
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:18:24.855
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:18:29.497
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:18:30.179
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:18:36.367
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:18:37.050
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:21:10.221
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:21:10.924
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:21:21.848
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:21:22.521
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:21:41.207
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:21:41.887
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-02 13:21:56.124
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-08-02 13:22:15.491
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:22:16.186
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:22:32.961
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:22:33.682
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-02 13:24:27.615
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-08-02 13:24:34.991
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:24:35.689
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:24:39.807
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:24:40.488
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:25:27.799
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:25:28.503
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:25:38.392
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:25:39.109
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:33:25.119
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:33:25.851
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:33:29.084
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:33:29.923
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:33:49.453
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:33:50.166
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:34:21.652
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:34:22.416
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:35:02.522
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:35:03.239
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:36:25.312
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:36:26.017
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:47:25.511
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:47:28.255
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:49:18.141
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:49:19.007
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:49:35.352
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:49:36.007
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:50:00.076
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:50:00.778
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:50:15.807
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:50:16.512
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:50:27.274
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:50:28.426
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:51:26.385
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:51:27.134
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:51:36.735
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:51:37.476
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:55:27.547
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 13:55:28.660
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-02 14:04:51.807
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-08-02 14:04:58.197
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 14:04:58.911
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 14:05:05.737
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 14:05:06.465
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 14:05:44.251
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 14:05:45.000
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 14:05:46.570
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 14:05:47.366
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-02 14:06:26.953
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-08-02 14:08:52.701
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 14:08:53.408
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 14:09:39.901
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 14:09:40.631
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 14:10:19.934
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 14:10:20.646
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 14:11:15.526
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 14:11:16.245
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 14:11:37.236
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 14:11:37.909
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 14:11:38.747
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-02 14:11:39.529
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 14:11:45.967
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.hPWDxVrT
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 14:11:45.969
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.hPWDxVrT
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 14:11:45.971
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 14:11:45.972
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.hPWDxVrT => OK
+!SESSION 2021-08-02 14:11:59.272 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-08-02 14:12:48.011
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-02 14:12:48.012
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@34001c5d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@30e15628,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 14:12:58.306
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 14:12:58.308
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2f58b2b9[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 14:12:58.323
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 14:12:58.430
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-02 14:13:00.950
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\cristian.fuentes'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-02 14:13:05.774
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 14:13:06.948
+!MESSAGE Boot LS startup time from start to initialized: 8589ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 14:13:07.817
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.lZAyhJKIisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 14:13:07.825
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 14:13:07.830
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 14:13:07.832
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 14:13:07.835
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 14:13:07.837
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.lZAyhJKI => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 14:13:07.869
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 14:13:07.882
+!MESSAGE buffering callback sts4.classpath.lZAyhJKI apirest-books false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 14:13:07.885
+!MESSAGE executing callback sts4.classpath.lZAyhJKI 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-02 14:13:08.802
+!MESSAGE executing callback sts4.classpath.lZAyhJKI SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-02 14:14:39.768
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.ui 2 2 2021-08-02 14:15:59.724
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2021-08-03 08:13:26.027 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-08-03 08:13:34.759
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2021-08-03 08:13:41.438
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-03 08:13:41.438
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2b4ba2d9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@69f24965,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 08:13:57.429
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 08:13:57.432
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@19b058a4[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 08:13:57.446
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 08:13:57.573
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-03 08:14:01.178
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\cristian.fuentes'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 08:14:07.527
+!MESSAGE Boot LS startup time from start to initialized: 10040ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 08:14:08.259
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.RdtHwrMcisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 08:14:08.270
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 08:14:08.280
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 08:14:08.284
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 08:14:08.287
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 08:14:08.291
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.RdtHwrMc => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 08:14:08.346
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 08:14:08.360
+!MESSAGE buffering callback sts4.classpath.RdtHwrMc apirest-books false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 08:14:08.363
+!MESSAGE executing callback sts4.classpath.RdtHwrMc 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 08:14:09.529
+!MESSAGE executing callback sts4.classpath.RdtHwrMc SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-03 08:16:06.494
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.ui 2 2 2021-08-03 08:17:04.228
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-03 08:17:44.343
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-03 08:18:02.185
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-03 08:32:52.942
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-03 08:35:25.652
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:04.317
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:04.330
+!MESSAGE classpath=106 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:04.346
+!MESSAGE buffering callback sts4.classpath.RdtHwrMc apirest-books false 106
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:04.354
+!MESSAGE executing callback sts4.classpath.RdtHwrMc 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:04.790
+!MESSAGE executing callback sts4.classpath.RdtHwrMc SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-03 09:29:08.308
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 4 0 2021-08-03 09:29:08.309
+!MESSAGE NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.dash.model.BootProjectDashElementFactory.createOrGet(org.eclipse.core.resources.IProject)" because "this.elementFactory" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.boot.dash.model.BootProjectDashElementFactory.createOrGet(org.eclipse.core.resources.IProject)" because "this.elementFactory" is null
+	at org.springframework.ide.eclipse.boot.dash.devtools.DevtoolsPortRefresher.getElementFor(DevtoolsPortRefresher.java:92)
+	at org.springframework.ide.eclipse.boot.dash.devtools.DevtoolsPortRefresher.processCreated(DevtoolsPortRefresher.java:68)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.processCreated(ProcessTracker.java:105)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.<init>(ProcessTracker.java:59)
+	at org.springframework.ide.eclipse.boot.dash.devtools.DevtoolsPortRefresher.<init>(DevtoolsPortRefresher.java:49)
+	at org.springframework.ide.eclipse.boot.dash.model.LocalBootDashModel.init(LocalBootDashModel.java:173)
+	at org.springframework.ide.eclipse.boot.dash.model.LocalBootDashModel.getElements(LocalBootDashModel.java:239)
+	at org.springframework.ide.eclipse.boot.dash.views.sections.BootDashTreeContentProvider.getChildren(BootDashTreeContentProvider.java:49)
+	at org.springframework.ide.eclipse.boot.dash.views.sections.BootDashTreeContentProvider.hasChildren(BootDashTreeContentProvider.java:77)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.isExpandable(AbstractTreeViewer.java:2173)
+	at org.eclipse.jface.viewers.TreeViewer.isExpandable(TreeViewer.java:546)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.isExpandable(AbstractTreeViewer.java:2203)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.updatePlus(AbstractTreeViewer.java:2888)
+	at org.eclipse.jface.viewers.TreeViewer.updatePlus(TreeViewer.java:794)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createTreeItem(AbstractTreeViewer.java:854)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createChildren(AbstractTreeViewer.java:831)
+	at org.eclipse.jface.viewers.TreeViewer.createChildren(TreeViewer.java:604)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createChildren(AbstractTreeViewer.java:779)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalInitializeTree(AbstractTreeViewer.java:1599)
+	at org.eclipse.jface.viewers.TreeViewer.internalInitializeTree(TreeViewer.java:780)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.lambda$1(AbstractTreeViewer.java:1584)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1400)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:363)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1361)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.inputChanged(AbstractTreeViewer.java:1578)
+	at org.eclipse.jface.viewers.ContentViewer.setInput(ContentViewer.java:282)
+	at org.eclipse.jface.viewers.StructuredViewer.setInput(StructuredViewer.java:1634)
+	at org.springframework.ide.eclipse.boot.dash.views.sections.BootDashUnifiedTreeSection.createContents(BootDashUnifiedTreeSection.java:330)
+	at org.springsource.ide.eclipse.commons.livexp.ui.ViewPartWithSections.createPartControl(ViewPartWithSections.java:57)
+	at org.springframework.ide.eclipse.boot.dash.views.BootDashTreeView.createPartControl(BootDashTreeView.java:116)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:158)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityView.createPartControl(CompatibilityView.java:155)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:365)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:999)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:964)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalInject(InjectorImpl.java:140)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:405)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:332)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:202)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:91)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:60)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:132)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:999)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$1.run(PartRenderingEngine.java:544)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:528)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ElementReferenceRenderer.createWidget(ElementReferenceRenderer.java:73)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:999)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.lambda$0(PartServiceImpl.java:109)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:236)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4742)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:133)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElementGen(ElementContainerImpl.java:170)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:188)
+	at org.eclipse.e4.ui.workbench.addons.minmax.TrimStack.restoreStack(TrimStack.java:916)
+	at org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon.restore(MinMaxAddon.java:691)
+	at org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon.subscribeTopicTagsChanged(MinMaxAddon.java:411)
+	at jdk.internal.reflect.GeneratedMethodAccessor33.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:236)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4742)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.internal.di.UIEventObjectSupplier$UIEventHandler.handleEvent(UIEventObjectSupplier.java:64)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:133)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.emf.ecore.util.EcoreEList.dispatchNotification(EcoreEList.java:249)
+	at org.eclipse.emf.common.notify.impl.NotifyingListImpl.remove(NotifyingListImpl.java:725)
+	at org.eclipse.emf.common.util.AbstractEList.remove(AbstractEList.java:456)
+	at org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon.unzoom(MinMaxAddon.java:923)
+	at org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon.subscribeTopicTagsChanged(MinMaxAddon.java:413)
+	at jdk.internal.reflect.GeneratedMethodAccessor33.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:236)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4742)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.internal.di.UIEventObjectSupplier$UIEventHandler.handleEvent(UIEventObjectSupplier.java:64)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:133)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.emf.ecore.util.EcoreEList.dispatchNotification(EcoreEList.java:249)
+	at org.eclipse.emf.common.notify.impl.NotifyingListImpl.remove(NotifyingListImpl.java:725)
+	at org.eclipse.emf.common.util.AbstractEList.remove(AbstractEList.java:456)
+	at org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon.setState(MinMaxAddon.java:215)
+	at org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon$2.mouseDoubleClick(MinMaxAddon.java:197)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:200)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4026)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3626)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY Activator 1 0 2021-08-03 09:29:08.820
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 09:29:13.682
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:13.685
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:13.699
+!MESSAGE classpath=106 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:13.741
+!MESSAGE buffering callback sts4.classpath.RdtHwrMc apirest-books false 106
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:13.748
+!MESSAGE executing callback sts4.classpath.RdtHwrMc 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:13.825
+!MESSAGE executing callback sts4.classpath.RdtHwrMc SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-03 09:29:14.383
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:23.345
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.RdtHwrMc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:23.347
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.RdtHwrMc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:23.349
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:23.352
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.RdtHwrMc => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:24.225
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:24.226
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@19b058a4[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:24.228
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:30.268
+!MESSAGE Boot LS startup time from start to initialized: 6036ms
+
+!ENTRY org.eclipse.jface.text 4 0 2021-08-03 09:29:30.271
+!MESSAGE java.lang.NullPointerException: Cannot invoke "java.util.concurrent.CompletionStage.toCompletableFuture()" because the return value of "java.util.function.Function.apply(Object)" is null
+!STACK 0
+java.util.concurrent.CompletionException: java.lang.NullPointerException: Cannot invoke "java.util.concurrent.CompletionStage.toCompletableFuture()" because the return value of "java.util.function.Function.apply(Object)" is null
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1155)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:295)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+Caused by: java.lang.NullPointerException: Cannot invoke "java.util.concurrent.CompletionStage.toCompletableFuture()" because the return value of "java.util.function.Function.apply(Object)" is null
+	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1146)
+	... 6 more
+
+!ENTRY org.eclipse.jface.text 4 0 2021-08-03 09:29:30.272
+!MESSAGE java.lang.NullPointerException: Cannot invoke "java.util.concurrent.CompletionStage.toCompletableFuture()" because the return value of "java.util.function.Function.apply(Object)" is null
+!STACK 0
+java.util.concurrent.CompletionException: java.lang.NullPointerException: Cannot invoke "java.util.concurrent.CompletionStage.toCompletableFuture()" because the return value of "java.util.function.Function.apply(Object)" is null
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1155)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:295)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+Caused by: java.lang.NullPointerException: Cannot invoke "java.util.concurrent.CompletionStage.toCompletableFuture()" because the return value of "java.util.function.Function.apply(Object)" is null
+	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1146)
+	... 6 more
+
+!ENTRY org.eclipse.jface.text 4 0 2021-08-03 09:29:30.275
+!MESSAGE java.lang.NullPointerException: Cannot invoke "java.util.concurrent.CompletionStage.toCompletableFuture()" because the return value of "java.util.function.Function.apply(Object)" is null
+!STACK 0
+java.util.concurrent.CompletionException: java.lang.NullPointerException: Cannot invoke "java.util.concurrent.CompletionStage.toCompletableFuture()" because the return value of "java.util.function.Function.apply(Object)" is null
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1155)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:295)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+Caused by: java.lang.NullPointerException: Cannot invoke "java.util.concurrent.CompletionStage.toCompletableFuture()" because the return value of "java.util.function.Function.apply(Object)" is null
+	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1146)
+	... 6 more
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:30.462
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.JAYOdcrXisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:30.465
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:30.468
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:30.469
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:30.470
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:30.472
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.JAYOdcrX => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:30.482
+!MESSAGE classpath=106 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:30.491
+!MESSAGE buffering callback sts4.classpath.JAYOdcrX apirest-books false 106
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:30.493
+!MESSAGE executing callback sts4.classpath.JAYOdcrX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:29:31.278
+!MESSAGE executing callback sts4.classpath.JAYOdcrX SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-03 09:31:34.371
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 09:31:38.298
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:31:38.300
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:31:38.324
+!MESSAGE classpath=106 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:31:38.341
+!MESSAGE buffering callback sts4.classpath.JAYOdcrX apirest-books false 106
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:31:38.344
+!MESSAGE executing callback sts4.classpath.JAYOdcrX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:31:38.438
+!MESSAGE executing callback sts4.classpath.JAYOdcrX SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-03 09:31:39.141
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 09:31:39.616
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 09:31:42.056
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 09:31:42.985
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 09:32:20.673
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:32:20.675
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.JAYOdcrX
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:32:20.677
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.JAYOdcrX
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:32:20.679
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:32:20.681
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.JAYOdcrX => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:32:20.917
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:32:20.919
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@19b058a4[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:32:20.921
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY Activator 1 0 2021-08-03 09:32:21.550
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:32:25.649
+!MESSAGE Boot LS startup time from start to initialized: 4723ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:32:25.811
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.tZBoBcqpisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:32:25.814
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:32:25.816
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:32:25.818
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:32:25.819
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:32:25.821
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.tZBoBcqp => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:32:25.832
+!MESSAGE classpath=106 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:32:25.840
+!MESSAGE buffering callback sts4.classpath.tZBoBcqp apirest-books false 106
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:32:25.842
+!MESSAGE executing callback sts4.classpath.tZBoBcqp 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 09:32:26.450
+!MESSAGE executing callback sts4.classpath.tZBoBcqp SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-03 09:32:30.933
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 09:32:31.690
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 09:33:55.707
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 09:33:56.453
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 09:34:27.116
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 09:34:27.870
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 09:34:28.952
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 09:34:29.725
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 09:34:30.455
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 09:34:31.143
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 09:34:51.832
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 09:34:52.621
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 09:35:11.618
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 09:35:12.367
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 09:39:22.891
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 09:39:23.822
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:31:08.014
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:31:08.694
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:31:38.949
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:31:39.637
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:31:54.855
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:31:55.510
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:32:00.571
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:32:01.261
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:33:11.656
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:33:12.350
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:41:47.568
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:41:48.254
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:43:10.916
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:43:11.681
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:45:09.121
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:45:09.760
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:45:45.461
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:45:46.141
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:45:50.863
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:45:51.538
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:46:35.375
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:46:36.275
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:49:53.927
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:49:54.644
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:58:15.180
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:58:15.833
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:58:33.084
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 10:58:34.031
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 11:01:34.087
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 11:01:34.763
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 11:06:31.497
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 11:06:32.199
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-03 11:06:35.651
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-08-03 11:11:05.918
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 11:11:06.616
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 11:17:42.372
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 11:17:43.017
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-03 11:36:07.420
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-08-03 11:38:21.949
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 11:38:22.736
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 11:38:52.412
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 11:38:53.206
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 11:39:01.287
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 11:39:02.070
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 11:40:39.237
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 11:40:40.008
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 11:43:31.763
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 11:43:32.647
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 11:49:44.277
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 11:49:44.458
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 11:50:02.978
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 11:50:03.694
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 11:55:14.574
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 11:55:15.220
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 12:17:37.713
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 12:17:38.527
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 12:25:09.269
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 12:25:09.909
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 12:28:46.913
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 12:28:47.560
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 12:28:59.197
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 12:28:59.847
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 12:31:00.154
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 12:31:00.805
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 12:34:42.226
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 12:34:42.914
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 12:49:38.318
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 12:49:39.009
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 12:50:57.104
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 12:50:57.776
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 12:59:16.915
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 12:59:17.534
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 13:14:51.800
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 13:14:52.463
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 13:19:56.089
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 13:19:56.756
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 13:20:18.655
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 13:20:19.330
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 13:49:52.066
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 13:49:52.750
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 13:50:46.912
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 13:50:47.592
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 14:20:33.063
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-03 14:20:33.788
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 14:20:34.139
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.tZBoBcqp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 14:20:34.141
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.tZBoBcqp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 14:20:34.144
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-03 14:20:34.152
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.tZBoBcqp => OK
+!SESSION 2021-08-04 07:40:07.981 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-08-04 07:40:50.681
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-04 07:40:50.681
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@57fec63f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7a2fd94c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 07:41:03.354
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 07:41:03.357
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@721932d8[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 07:41:03.374
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 07:41:03.495
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2021-08-04 07:41:06.337
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-04 07:41:06.397
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\cristian.fuentes'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 07:41:12.494
+!MESSAGE Boot LS startup time from start to initialized: 9104ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 07:41:12.617
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.rNpQIudtisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 07:41:12.624
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 07:41:12.628
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 07:41:12.630
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 07:41:12.632
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 07:41:12.633
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.rNpQIudt => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 07:41:12.653
+!MESSAGE classpath=106 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 07:41:12.659
+!MESSAGE buffering callback sts4.classpath.rNpQIudt apirest-books false 106
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 07:41:12.660
+!MESSAGE executing callback sts4.classpath.rNpQIudt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 07:41:13.265
+!MESSAGE executing callback sts4.classpath.rNpQIudt SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2021-08-04 07:51:02.234
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-08-04 07:51:05.352
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 07:51:07.297
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 07:51:08.016
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 07:51:33.043
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 07:51:33.807
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 08:17:39.659
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 08:17:41.858
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 08:32:22.454
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 08:32:27.801
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 08:32:27.802
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 08:32:27.814
+!MESSAGE classpath=119 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 08:32:27.829
+!MESSAGE buffering callback sts4.classpath.rNpQIudt apirest-books false 119
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 08:32:27.831
+!MESSAGE executing callback sts4.classpath.rNpQIudt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 08:32:27.906
+!MESSAGE executing callback sts4.classpath.rNpQIudt SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-04 08:32:29.225
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 08:32:30.239
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 08:32:34.215
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 08:32:34.216
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 08:32:34.231
+!MESSAGE classpath=119 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 08:32:34.243
+!MESSAGE buffering callback sts4.classpath.rNpQIudt apirest-books false 119
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 08:32:34.245
+!MESSAGE executing callback sts4.classpath.rNpQIudt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 08:32:34.299
+!MESSAGE executing callback sts4.classpath.rNpQIudt SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-04 08:32:34.837
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 08:32:52.722
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 08:32:52.980
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 08:33:01.493
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 08:33:02.144
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 08:35:52.144
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 08:35:52.808
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 08:41:17.015
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 08:41:17.740
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 08:44:04.313
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 08:44:05.007
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:06:50.486
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:06:50.904
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:06:51.124
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:06:54.819
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:06:55.105
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:06:55.319
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:04.745
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:06.304
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:06.502
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:06.767
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:07.407
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:08.669
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:11.283
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:12.383
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:21.337
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:22.247
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:26.688
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:27.201
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:27.694
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:27.944
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:28.202
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:28.352
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:28.498
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:28.653
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:28.789
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:30.193
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:30.394
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:31.609
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:39.188
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:39.772
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:39.919
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:40.086
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:41.017
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:41.158
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:41.341
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:41.733
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:42.151
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:42.309
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:42.509
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:42.656
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:43.191
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:43.604
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:44.403
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:45.274
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:53.788
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:54.146
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:54.466
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:54.885
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:55.880
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:56.065
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:56.179
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:56.350
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:56.588
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:56.989
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:57.248
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:57.901
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:07:59.982
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:08:02.041
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:08:05.392
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 09:08:05.737
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:19:51.953
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:19:52.177
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:20:01.737
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:20:01.925
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:20:13.587
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:20:13.775
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:20:25.898
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:20:26.084
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:20:38.701
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:20:39.442
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:25:02.899
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:25:03.631
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:26:30.842
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:26:31.588
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:28:33.512
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:28:34.199
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:29:18.021
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:29:18.706
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:29:43.112
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:29:43.998
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:30:43.333
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:30:44.099
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:31:03.510
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:31:04.212
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:31:37.183
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:31:37.892
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:31:56.741
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:31:57.418
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:33:01.830
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:33:02.568
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:33:10.629
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:33:11.364
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:35:56.780
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:35:57.474
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:36:02.881
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:36:03.545
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:37:21.033
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:37:21.783
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:38:10.600
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:38:11.309
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:38:54.756
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:38:55.487
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:39:48.972
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:39:49.785
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:40:05.001
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:40:05.740
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:57:37.809
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:57:38.496
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:57:43.580
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:57:44.798
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:58:58.102
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:58:58.837
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:59:53.170
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 10:59:54.097
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:00:02.443
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:00:03.155
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:02:08.776
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:02:11.828
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:02:33.024
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:02:33.711
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:05:48.953
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:05:49.680
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:07:52.591
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:07:53.315
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-04 11:08:23.006
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-08-04 11:08:45.531
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:08:46.195
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:15:17.478
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:15:18.168
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:16:17.070
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:16:18.013
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:19:39.783
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:19:40.714
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:37:37.094
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:37:37.312
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:37:48.900
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:37:49.668
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:45:54.614
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:45:55.345
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:45:56.747
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:45:57.452
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:49:01.779
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:49:02.433
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:49:07.934
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:49:08.625
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:49:49.958
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:49:50.647
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:50:29.783
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:50:30.489
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:53:14.435
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:53:15.154
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:55:02.122
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:55:02.878
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-08-04 11:56:54.901
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package com.company.books.backend.model;
+
+import java.io.Serializable;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="categorias")
+public class Categoria implements Serializable{
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -2164553723990982332L;
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long id;
+	
+	private String nombre;
+	
+	private String descripcion;
+
+	public Long getId() {
+		return id;
+	}
+	
+	public Categoria()
+	
+	public Categoria(Long id, String nombre, String descripcion) {
+		super();
+		this.id = id;
+		this.nombre = nombre;
+		this.descripcion = descripcion;
+	}
+
+	public void setId(Long id) {
+		this.id = id;
+	}
+
+	public String getNombre() {
+		return nombre;
+	}
+
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+
+	public String getDescripcion() {
+		return descripcion;
+	}
+
+	public void setDescripcion(String descripcion) {
+		this.descripcion = descripcion;
+	}
+	
+	
+	
+	
+	
+}
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.ASTNode.setSourceRange(ASTNode.java:3189)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:738)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:494)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:113)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2021-08-04 11:56:54.904
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.ASTNode.setSourceRange(ASTNode.java:3189)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:738)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:494)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:113)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2021-08-04 11:56:54.906
+!MESSAGE Error in JDT Core during reconcile
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.ASTNode.setSourceRange(ASTNode.java:3189)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:738)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:494)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:113)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY Activator 1 0 2021-08-04 11:56:59.197
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:56:59.891
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:59:32.478
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:59:32.709
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:59:49.257
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 11:59:49.953
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 12:01:31.748
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 12:01:32.466
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-04 12:05:27.997
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-08-04 12:05:40.082
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 12:05:40.740
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 12:05:52.152
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 12:05:52.864
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 12:07:43.980
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 12:07:44.685
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 12:07:50.799
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 12:07:51.514
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 12:08:32.558
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 12:08:33.265
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 12:09:37.107
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 12:09:37.746
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 12:11:30.871
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 12:11:31.580
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 12:11:38.804
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 12:11:39.520
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 12:14:13.738
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY Activator 1 0 2021-08-04 12:14:14.480
+!MESSAGE Has main method computation for project 'apirest-books'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-04 12:14:28.902
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SESSION 2021-08-05 11:05:33.098 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-08-05 11:05:39.636
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2021-08-05 11:05:45.602
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-05 11:05:45.602
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2202c92f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@440d2d64,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:05:51.559
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:05:51.561
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@48793512[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:05:51.573
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:05:51.685
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-05 11:05:53.209
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\cristian.fuentes'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:05:57.801
+!MESSAGE Boot LS startup time from start to initialized: 6188ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:05:58.462
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.RvrszkYdisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:05:58.467
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:05:58.471
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:05:58.473
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:05:58.474
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:05:58.475
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.RvrszkYd => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:05:58.511
+!MESSAGE classpath=119 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:05:58.520
+!MESSAGE buffering callback sts4.classpath.RvrszkYd apirest-books false 119
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:05:58.522
+!MESSAGE executing callback sts4.classpath.RvrszkYd 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 11:05:59.105
+!MESSAGE executing callback sts4.classpath.RvrszkYd SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2021-08-05 11:06:53.031
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CategoriaServiceImplTest" project="apirest-books" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.company.books.backend.service.CategoriaServiceImplTest" time="0.856" displayname="CategoriaServiceImplTest" uniqueid="[engine:junit-jupiter]/[class:com.company.books.backend.service.CategoriaServiceImplTest]">
+    <testcase name="buscarCategoriasTest" classname="com.company.books.backend.service.CategoriaServiceImplTest" time="0.855" displayname="buscarCategoriasTest()" uniqueid="[engine:junit-jupiter]/[class:com.company.books.backend.service.CategoriaServiceImplTest]/[method:buscarCategoriasTest()]"/>
+  </testsuite>
+</testrun>

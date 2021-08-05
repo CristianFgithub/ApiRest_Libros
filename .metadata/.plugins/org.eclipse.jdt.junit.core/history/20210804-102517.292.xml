@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="AssertEqualsTeoria" project="apirest-books" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.company.books.backend.ejemplos.junit.AssertEqualsTeoria" time="0.033" displayname="AssertEqualsTeoria" uniqueid="[engine:junit-jupiter]/[class:com.company.books.backend.ejemplos.junit.AssertEqualsTeoria]">
+    <testcase name="miTest" classname="com.company.books.backend.ejemplos.junit.AssertEqualsTeoria" time="0.033" displayname="miTest()" uniqueid="[engine:junit-jupiter]/[class:com.company.books.backend.ejemplos.junit.AssertEqualsTeoria]/[method:miTest()]"/>
+  </testsuite>
+</testrun>

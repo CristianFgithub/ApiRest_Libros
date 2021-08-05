@@ -1,0 +1,15 @@
+package com.company.books.backend.service;
+
+import com.company.books.backend.response.CategoriaResponseRest;
+
+public class CategoriaServiceImpl implements ICategoriaService {
+
+	
+	
+	@Override
+	public CategoriaResponseRest buscarCategorias() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

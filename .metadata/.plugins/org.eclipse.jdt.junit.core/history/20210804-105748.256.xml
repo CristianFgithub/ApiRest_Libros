@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CalculadoraTest" project="apirest-books" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.company.books.backend.ejemplos.junit.CalculadoraTest" time="0.027" displayname="CalculadoraTest" uniqueid="[engine:junit-jupiter]/[class:com.company.books.backend.ejemplos.junit.CalculadoraTest]">
+    <testcase name="calculadoraTrueFalse" classname="com.company.books.backend.ejemplos.junit.CalculadoraTest" time="0.023" displayname="calculadoraTrueFalse()" uniqueid="[engine:junit-jupiter]/[class:com.company.books.backend.ejemplos.junit.CalculadoraTest]/[method:calculadoraTrueFalse()]"/>
+    <testcase name="calculadoraAssertEqualTest" classname="com.company.books.backend.ejemplos.junit.CalculadoraTest" time="0.004" displayname="calculadoraAssertEqualTest()" uniqueid="[engine:junit-jupiter]/[class:com.company.books.backend.ejemplos.junit.CalculadoraTest]/[method:calculadoraAssertEqualTest()]"/>
+  </testsuite>
+</testrun>

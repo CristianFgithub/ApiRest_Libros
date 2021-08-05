@@ -1,0 +1,9 @@
+package com.company.books.backend.ejemplos.junit;
+
+public class Calculadora {
+
+	float sumar(float a, float b) {
+		retur a+b;
+	}
+	
+}

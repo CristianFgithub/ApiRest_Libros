@@ -1,0 +1,40 @@
+package com.company.books.backend.service;
+
+import static org.mockito.Mockito.when;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import org.mockito.InjectMocks;
+import org.mockito.Mock;
+import org.mockito.MockitoAnnotations;
+
+import com.company.books.backend.model.dao.ICategoriaDao;
+
+public class CategoriaServiceImplTest {
+
+	@InjectMocks
+	CategoriaServiceImpl service;
+	
+	@Mock
+	ICategoriaDao categoriaDao;
+	
+	
+	@BeforeEach
+	public void init() {
+		MockitoAnnotations.openMocks(this);
+	}
+
+	@Test
+	public void buscarCategoriasTest() {
+		
+		when(categoriaDao.findAll()).thenReturn(null);
+		
+	}
+	
+	public void cargarCategorias() {
+		
+	}
+	
+
+}
+

@@ -1,0 +1,17 @@
+package com.company.books.backend.service;
+
+import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Service;
+
+import com.company.books.backend.response.LibroResponseRest;
+
+@Service
+public class LibroServiceImpl implements IlibroService{
+
+	@Override
+	public ResponseEntity<LibroResponseRest> ObtenerLibros() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,29 @@
+package com.company.books.backend.controllers;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.mockito.InjectMocks;
+import org.mockito.Mock;
+import org.mockito.MockitoAnnotations;
+
+import com.company.books.backend.service.ICategoriaService;
+
+public class CategoriaRestControllerTest {
+
+	
+	@InjectMocks
+	CategoriaRestController categoria;
+	
+	@Mock
+	private ICategoriaService service;
+	
+	@BeforeEach
+	public void init() {
+		
+		
+		MockitoAnnotations.openMocks(this);
+		
+	}
+	
+	
+	
+}
